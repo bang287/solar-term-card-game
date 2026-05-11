@@ -1,12 +1,18 @@
+---
+title: '[Layout] Two columns'
+
+---
+
 # Godot 節氣翻牌遊戲製作歷程
 
 ## 1. 專案主題
 
 這次我先用 Godot 做出一款「二十四節氣翻牌配對遊戲」。玩家點擊卡牌後會翻開牌面，找出相同的節氣卡，全部配對完成後遊戲結束。
 
-<p align="center">
-  <img src="./assets/background/temple_bg.png" alt="遊戲背景" width="640">
-</p>
+![image](https://hackmd.io/_uploads/SktpiVkJMe.png)
+
+
+
 
 上圖是遊戲使用的背景。我希望畫面帶有傳統文化感，讓節氣主題不只是文字介紹，而是變成可以互動的遊戲內容。
 
@@ -24,9 +30,9 @@
 
 這個決定讓我完成了目前的節氣翻牌遊戲，也讓我先練習了遊戲互動流程。
 
-<p align="center">
-  <img src="./assets/cards/card_back.png" alt="卡牌背面" width="220">
-</p>
+![image](https://hackmd.io/_uploads/Sk_W2Vy1Gl.png)
+
+
 
 卡牌一開始會顯示背面，玩家點擊後才翻到正面。這是翻牌遊戲最核心的互動。
 
@@ -36,11 +42,13 @@
 
 | 立春 | 雨水 |
 | --- | --- |
-| <img src="./assets/cards/立春.png" alt="立春卡牌" width="220"> | <img src="./assets/cards/雨水.png" alt="雨水卡牌" width="220"> |
+| ![image](https://hackmd.io/_uploads/H1pMnVyyMx.png)|![image](https://hackmd.io/_uploads/HJuP3E1kzl.png)
+ 
 
 | 春分 | 驚蟄 |
 | --- | --- |
-| <img src="./assets/cards/春分.png" alt="春分卡牌" width="220"> | <img src="./assets/cards/驚蜇.png" alt="驚蟄卡牌" width="220"> |
+| ![image](https://hackmd.io/_uploads/rJcunEkkzg.png)| ![image](https://hackmd.io/_uploads/SJg9nE1yMx.png)
+|
 
 遊戲流程很簡單：
 
