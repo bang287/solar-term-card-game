@@ -4,7 +4,9 @@
 
 這次我先用 Godot 做出一款「二十四節氣翻牌配對遊戲」。玩家點擊卡牌後會翻開牌面，找出相同的節氣卡，全部配對完成後遊戲結束。
 
-![遊戲背景](assets/background/temple_bg.png)
+<p align="center">
+  <img src="./assets/background/temple_bg.png" alt="遊戲背景" width="640">
+</p>
 
 上圖是遊戲使用的背景。我希望畫面帶有傳統文化感，讓節氣主題不只是文字介紹，而是變成可以互動的遊戲內容。
 
@@ -22,7 +24,9 @@
 
 這個決定讓我完成了目前的節氣翻牌遊戲，也讓我先練習了遊戲互動流程。
 
-![卡牌背面](assets/cards/card_back.png)
+<p align="center">
+  <img src="./assets/cards/card_back.png" alt="卡牌背面" width="220">
+</p>
 
 卡牌一開始會顯示背面，玩家點擊後才翻到正面。這是翻牌遊戲最核心的互動。
 
@@ -30,13 +34,13 @@
 
 遊戲中使用了多張節氣卡牌，例如立春、雨水、春分和驚蟄。每一種節氣都有兩張相同卡牌，玩家要找出配對。
 
-![立春卡牌](assets/cards/立春.png)
+| 立春 | 雨水 |
+| --- | --- |
+| <img src="./assets/cards/立春.png" alt="立春卡牌" width="220"> | <img src="./assets/cards/雨水.png" alt="雨水卡牌" width="220"> |
 
-![雨水卡牌](assets/cards/雨水.png)
-
-![春分卡牌](assets/cards/春分.png)
-
-![驚蟄卡牌](assets/cards/驚蜇.png)
+| 春分 | 驚蟄 |
+| --- | --- |
+| <img src="./assets/cards/春分.png" alt="春分卡牌" width="220"> | <img src="./assets/cards/驚蜇.png" alt="驚蟄卡牌" width="220"> |
 
 遊戲流程很簡單：
 
